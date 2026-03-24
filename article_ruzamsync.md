@@ -242,3 +242,27 @@ xychart-beta
 6. Ronneberger O., Fischer P., Brox T. U-Net: Convolutional Networks for Biomedical Image Segmentation // Medical Image Computing and Computer-Assisted Intervention (MICCAI). 2015. URL: [https://arxiv.org/abs/1505.04597](https://arxiv.org/abs/1505.04597).
 7. Mildenhall B., Srinivasan P. P., Tancik M. et al. NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis // European Conference on Computer Vision (ECCV). 2020. P. 405-421. URL: [https://arxiv.org/abs/2003.08934](https://arxiv.org/abs/2003.08934).
 8. Chung J. S., Zisserman A. Out of Time: Automated Lip Sync in the Wild // Asian Conference on Computer Vision (ACCV). 2016. URL: [https://arxiv.org/abs/1607.04873](https://arxiv.org/abs/1607.04873).
+
+**Мазур Маркіян-Юліан Мирославович (Мазур М.-Ю. М.)** - магістр, кафедра штучного інтелекту, Навчально-науковий інститут прикладного системного аналізу, Національний технічний університет України "Київський політехнічний інститут імені Ігоря Сікорського", вул. Політехнічна, 41, корпус 18, м. Київ, Україна, 03056  
+Тел.: +380 (95) 070 5871  
+E-mail: markiianftr@gmail.com  
+ORCID: https://orcid.org/0009-0004-1760-7244  
+
+**Кот Анатолій Тарасович** - старший викладач кафедри штучного інтелекту, Навчально-науковий інститут прикладного системного аналізу, Національний технічний університет України "Київський політехнічний інститут імені Ігоря Сікорського", вул. Політехнічна, 41, корпус 18, м. Київ, Україна, 03056  
+Тел.: +380 (50) 935 0484  
+E-mail: anatoly.kot@gmail.com  
+ORCID: https://orcid.org/0000-0002-7490-8834  
+Scopus Author ID: 57219503223
+
+# Information about the authors
+
+**Mazur Markiian-Yulian Myroslavovych** - Master, Department of Artificial Intelligence, Educational and Scientific Institute of Applied System Analysis, National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute", Politekhnichna str., 41, building 18, Kyiv, Ukraine, 03056  
+Tel.: +380 (95) 070 5871  
+E-mail: markiianftr@gmail.com  
+ORCID: https://orcid.org/0009-0004-1760-7244  
+
+**Kot Anatoly Tarasovych** - Senior Lecturer, Department of Artificial Intelligence, Educational and Scientific Institute of Applied System Analysis, National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute", Politekhnichna str., 41, building 18, Kyiv, Ukraine, 03056  
+Tel.: +380 (50) 935 0484  
+E-mail: anatoly.kot@gmail.com  
+ORCID: https://orcid.org/0000-0002-7490-8834  
+Scopus Author ID: 57219503223
