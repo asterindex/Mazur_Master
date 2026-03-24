@@ -226,11 +226,11 @@ xychart-beta
 
 ## Список літератури
 
-1. Prajwal K. R. et al. *A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild*. ACM MM, 2020.
-2. Ye Z. et al. *GeneFace++: Generalized and Stable Real-Time Audio-Driven 3D Talking Face Generation*. arXiv, 2023.
-3. Hsu W.-N. et al. *HuBERT: Self-Supervised Speech Representation Learning*. IEEE/ACM TASLP, 2021.
-4. Johnson J. et al. *Billion-scale similarity search with GPUs*. IEEE TBD, 2019.
-5. Lewis P. et al. *Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks*. NeurIPS, 2020.
-6. Ronneberger O. et al. *U-Net: Convolutional Networks for Biomedical Image Segmentation*. MICCAI, 2015.
-7. Mildenhall B. et al. *NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis*. ECCV, 2020.
-8. Chung J. S., Zisserman A. *Out of time: automated lip sync in the wild*. ACCV, 2016.
+1. Prajwal K. R., Mukhopadhyay R., Namboodiri V. P., Jawahar C. V. A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild // Proceedings of the 28th ACM International Conference on Multimedia (MM '20). 2020. P. 484-492. DOI: [10.1145/3394171.3413532](https://doi.org/10.1145/3394171.3413532).
+2. Ye Z., Zhong T., Ren Y. et al. GeneFace++: Generalized and Stable Real-Time Audio-Driven 3D Talking Face Generation // arXiv preprint. 2023. URL: [https://arxiv.org/abs/2305.00787](https://arxiv.org/abs/2305.00787).
+3. Hsu W.-N., Bolte B., Tsai Y.-H. H. et al. HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units // IEEE/ACM Transactions on Audio, Speech, and Language Processing. 2021. Vol. 29. P. 3451-3460. URL: [https://arxiv.org/abs/2106.07447](https://arxiv.org/abs/2106.07447).
+4. Johnson J., Douze M., Jegou H. Billion-scale similarity search with GPUs // IEEE Transactions on Big Data. 2019. Vol. 7, no. 3. P. 535-547. URL: [https://arxiv.org/abs/1702.08734](https://arxiv.org/abs/1702.08734).
+5. Lewis P., Perez E., Piktus A. et al. Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks // Advances in Neural Information Processing Systems (NeurIPS). 2020. Vol. 33. URL: [https://arxiv.org/abs/2005.11401](https://arxiv.org/abs/2005.11401).
+6. Ronneberger O., Fischer P., Brox T. U-Net: Convolutional Networks for Biomedical Image Segmentation // Medical Image Computing and Computer-Assisted Intervention (MICCAI). 2015. URL: [https://arxiv.org/abs/1505.04597](https://arxiv.org/abs/1505.04597).
+7. Mildenhall B., Srinivasan P. P., Tancik M. et al. NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis // European Conference on Computer Vision (ECCV). 2020. P. 405-421. URL: [https://arxiv.org/abs/2003.08934](https://arxiv.org/abs/2003.08934).
+8. Chung J. S., Zisserman A. Out of Time: Automated Lip Sync in the Wild // Asian Conference on Computer Vision (ACCV). 2016. URL: [https://arxiv.org/abs/1607.04873](https://arxiv.org/abs/1607.04873).
